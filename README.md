@@ -1,3 +1,3 @@
-# Hi there ?? I'm sanjay-6727
+# Hi there ?? I'm sanjay
 
-![Snake animation](https://github.com/sanjay-6727/sanjay-6727/blob/output/dist/snake.svg)
+![Snake animation](https://raw.githubusercontent.com/sanjay-6727/sanjay-6727/main/dist/snake.svg)
