@@ -1,16 +1,14 @@
-name: Generate Gotham Signal
-
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-
 jobs:
   build:
     runs-on: ubuntu-latest
 
     steps:
       - uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
+
+      - name: Pull latest changes
+        run: git pull origin main
 
       - name: Generate Gotham SVG
         run: |
@@ -19,11 +17,9 @@ jobs:
           <svg width="900" height="200" xmlns="http://www.w3.org/2000/svg">
             <rect width="100%" height="100%" fill="#0a0a0a"/>
 
-            <!-- Contribution grid embed -->
             <image href="https://ghchart.rshah.org/sanjay-6727"
                    x="50" y="30" height="140"/>
 
-            <!-- Moving bat-signal light -->
             <rect x="-300" y="0" width="300" height="200"
                   fill="url(#light)">
               <animate attributeName="x"
@@ -40,7 +36,6 @@ jobs:
                 <stop offset="100%" stop-color="transparent"/>
               </linearGradient>
             </defs>
-
           </svg>
           EOF
 
@@ -48,3 +43,4 @@ jobs:
         with:
           add: "dist"
           message: "Update Gotham Signal"
+          pull: '--rebase --autostash'
