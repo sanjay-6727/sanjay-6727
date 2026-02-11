@@ -12,10 +12,8 @@
 
 
 <p align="center">
-  student by day.<br>
-  debugging vigilante by night.<br><br>
+  i write code.<br>
+  sometimes the code writes back.<br>
+  we maintain an understanding~<br><br>
 
-  i write code  
-  code writes back 
-  we maintian an understanding.
 </p>
