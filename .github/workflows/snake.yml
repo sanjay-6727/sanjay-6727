@@ -1,4 +1,4 @@
-name: Generate Snake
+name: Generate Gotham Signal
 
 on:
   schedule:
@@ -12,13 +12,39 @@ jobs:
     steps:
       - uses: actions/checkout@v3
 
-      - uses: Platane/snk@v3
-        with: 
-          github_user_name: sanjay-6727
-          outputs: |
-            dist/snake.svg
+      - name: Generate Gotham SVG
+        run: |
+          mkdir -p dist
+          cat << 'EOF' > dist/gotham.svg
+          <svg width="900" height="200" xmlns="http://www.w3.org/2000/svg">
+            <rect width="100%" height="100%" fill="#0a0a0a"/>
+
+            <!-- Contribution grid embed -->
+            <image href="https://ghchart.rshah.org/sanjay-6727"
+                   x="50" y="30" height="140"/>
+
+            <!-- Moving bat-signal light -->
+            <rect x="-300" y="0" width="300" height="200"
+                  fill="url(#light)">
+              <animate attributeName="x"
+                       from="-300"
+                       to="900"
+                       dur="6s"
+                       repeatCount="indefinite" />
+            </rect>
+
+            <defs>
+              <linearGradient id="light" x1="0" y1="0" x2="1" y2="0">
+                <stop offset="0%" stop-color="transparent"/>
+                <stop offset="50%" stop-color="rgba(245,197,24,0.25)"/>
+                <stop offset="100%" stop-color="transparent"/>
+              </linearGradient>
+            </defs>
+
+          </svg>
+          EOF
 
       - uses: EndBug/add-and-commit@v9
         with:
           add: "dist"
-          message: "Generate Snake"
+          message: "Update Gotham Signal"
