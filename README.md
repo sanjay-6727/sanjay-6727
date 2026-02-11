@@ -7,11 +7,7 @@
   
   
 </p>
-![Snake animation](dist/github-contribution-grid-snake.svg)
-
-
-
-
+![Snake animation](dist/snake.svg)
 <p align="center">
   i write code.<br>
   sometimes the code writes back.<br>
