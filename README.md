@@ -7,7 +7,7 @@
   
   
 </p>
-![Snake animation](https://raw.githubusercontent.com/sanjay-6727/sanjay-6727/main/dist/snake.svg)
+<img src="https://raw.githubusercontent.com/sanjay-6727/sanjay-6727/main/dist/snake.svg" alt="Snake animation" />
 
 <p align="center">
   i write code.<br>
