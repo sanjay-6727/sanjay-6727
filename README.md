@@ -26,7 +26,9 @@ Tech Stack
 🛠 Tools I Live In
 <p align="center"> <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,postman" /> </p>
 🏆 Contribution Activity
-<div align="center"> <img src="https://github-contributor-stats.vercel.app/api?username=yourusername&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" /> </div></div>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sanjay-6727&theme=tokyonight&no-frame=true&row=1"/>
+</div></div>
   
 </div>
   i write code.<br>
