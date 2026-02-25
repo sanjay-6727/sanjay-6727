@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=800&color=00FF99&center=true&vCenter=true&width=600&lines=Hey+I'm+Sanjay;CSE+Student;Full+Stack+Developer;I+Build.+I+Break.+I+Rebuild."/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=800&color=00FF99&center=true&vCenter=true&width=600&lines=Hey+I'm+Sanjay;CSE+Student;Full+Stack+Developer;"/>
 </h1>
 
 <p align="center">
@@ -13,15 +13,9 @@
 </p>
 
 ---
-<div align="center">
 
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=sanjay-6727&show_icons=true&theme=dark&hide_border=true" height="165"/>
 
-<img src="https://streak-stats.demolab.com?user=sanjay-6727&theme=dark&hide_border=true" height="165"/>
-
-</div>
-
-## 🟢 SYSTEM ACTIVITY
+## SYSTEM ACTIVITY
 
 <div align="center">
 
@@ -39,26 +33,26 @@
 
 ---
 
-## ⚡ TECH MATRIX
+## TECH STACK
 
-### 🧠 Core Languages
+### Core Languages
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,java,python,c,js,ts&theme=dark" />
 </p>
 
-### 🌐 Web Stack
+###  Web Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,nodejs,express,tailwind&theme=dark" />
 </p>
 
-### 📱 Mobile Systems
+### Mobile Systems
 <p align="center">
   <img src="https://skillicons.dev/icons?i=flutter,dart&theme=dark" />
 </p>
 
-### 🛢️ Data & Infrastructure
+### Data & Infrastructure
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,firebase,docker,linux,vercel&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=oracle,mysql,postgres,firebase,docker,linux,vercel&theme=dark" />
 </p>
 
 ---
