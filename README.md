@@ -13,6 +13,13 @@
 </p>
 
 ---
+<div align="center">
+
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=sanjay-6727&show_icons=true&theme=dark&hide_border=true" height="165"/>
+
+<img src="https://streak-stats.demolab.com?user=sanjay-6727&theme=dark&hide_border=true" height="165"/>
+
+</div>
 
 ## 🟢 SYSTEM ACTIVITY
 
