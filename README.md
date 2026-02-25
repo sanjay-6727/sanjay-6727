@@ -40,9 +40,10 @@
 
 ---
 
-## 🏆 Contribution Activity
+## 📈 Contribution Graph
+
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sanjay-6727&theme=tokyonight&no-frame=true&row=1"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sanjay-6727&theme=tokyo-night&hide_border=true" />
 </div>
 
 ---
