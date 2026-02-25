@@ -4,16 +4,16 @@
 <img src="https://raw.githubusercontent.com/sanjay-6727/sanjay-6727/main/dist/snake.svg" alt="Snake animation" />
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=sanjay-6727&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
 
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://streak-stats.demolab.com?user=sanjay-6727&theme=tokyonight&hide_border=true" height="165"/>
 
   <br/>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjay-6727&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 
 </div>
-
+<div align="center">
 Tech Stack
 💻 Programming Languages
 <p align="center"> <img src="https://skillicons.dev/icons?i=cpp,java,python,c,js,ts" /> </p>
@@ -26,7 +26,8 @@ Tech Stack
 🛠 Tools I Live In
 <p align="center"> <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,postman" /> </p>
 🏆 Contribution Activity
-<div align="center"> <img src="https://github-contributor-stats.vercel.app/api?username=yourusername&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" /> </div>
+<div align="center"> <img src="https://github-contributor-stats.vercel.app/api?username=yourusername&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" /> </div></div>
+  
 </div>
   i write code.<br>
   sometimes the code writes back.<br>
