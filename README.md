@@ -122,7 +122,7 @@ also:        music producer · photographer · hackathon regular · equities inv
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00ff99)](https://linkedin.com/in/sanjay-6727)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00ff99)](https://linkedin.com/in/sanjay-s-60b0aa32a/)
 &nbsp;
 [![GitHub](https://img.shields.io/badge/-GitHub-0d1117?style=for-the-badge&logo=github&logoColor=00ff99)](https://github.com/sanjay-6727)
 &nbsp;
